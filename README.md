@@ -1,5 +1,7 @@
 # Calbee
 
+[![Gem Version](https://badge.fury.io/rb/calbee.svg)](https://badge.fury.io/rb/calbee)
+
 A simple vCard generate tool.
 
 ```
